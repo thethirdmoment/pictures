@@ -17,3 +17,4 @@ everything a reader needs is in the article.
 | 009 | [How a Trend Follower Profits From Markets That Keep Moving](https://thethirdmoment.medium.com/how-a-trend-follower-profits-from-markets-that-keep-moving-9a3ab816c67f) |
 | 010 | [What Costs and Broken Pairs Take From a Statistical Arbitrage Trader](https://thethirdmoment.medium.com/what-costs-and-broken-pairs-take-from-a-statistical-arbitrage-trader-0e2c191d885a) |
 | 011 | [How Much of Its Spread a Crypto Market Maker Gets to Keep](https://thethirdmoment.medium.com/how-much-of-its-spread-a-crypto-market-maker-gets-to-keep-d97c20129c3d) |
+| 012 | [How an Options Desk Turns Noisy Quotes Into One Volatility Surface](https://thethirdmoment.medium.com/how-an-options-desk-turns-noisy-quotes-into-one-volatility-surface-70a8345e14a9) |
