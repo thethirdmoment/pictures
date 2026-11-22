@@ -18,3 +18,6 @@ everything a reader needs is in the article.
 | 010 | [What Costs and Broken Pairs Take From a Statistical Arbitrage Trader](https://thethirdmoment.medium.com/what-costs-and-broken-pairs-take-from-a-statistical-arbitrage-trader-0e2c191d885a) |
 | 011 | [How Much of Its Spread a Crypto Market Maker Gets to Keep](https://thethirdmoment.medium.com/how-much-of-its-spread-a-crypto-market-maker-gets-to-keep-d97c20129c3d) |
 | 012 | [How an Options Desk Turns Noisy Quotes Into One Volatility Surface](https://thethirdmoment.medium.com/how-an-options-desk-turns-noisy-quotes-into-one-volatility-surface-70a8345e14a9) |
+| 013 | [Why a Market Maker Pays for Your Stock Order and Beats the Price](https://thethirdmoment.medium.com/why-a-market-maker-pays-for-your-stock-order-and-beats-the-price-e88a514ab668) |
+| 014 | [What an Autocallable Pays and the Risk the Bank Keeps](https://thethirdmoment.medium.com/what-an-autocallable-pays-and-the-risk-the-bank-keeps-8f354cfea9e3) |
+| 015 | [What a Microsecond Is Worth to a Market Maker](https://thethirdmoment.medium.com/what-a-microsecond-is-worth-to-a-market-maker-faff2680f562) |
