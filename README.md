@@ -21,3 +21,5 @@ everything a reader needs is in the article.
 | 013 | [Why a Market Maker Pays for Your Stock Order and Beats the Price](https://thethirdmoment.medium.com/why-a-market-maker-pays-for-your-stock-order-and-beats-the-price-e88a514ab668) |
 | 014 | [What an Autocallable Pays and the Risk the Bank Keeps](https://thethirdmoment.medium.com/what-an-autocallable-pays-and-the-risk-the-bank-keeps-8f354cfea9e3) |
 | 015 | [What a Microsecond Is Worth to a Market Maker](https://thethirdmoment.medium.com/what-a-microsecond-is-worth-to-a-market-maker-faff2680f562) |
+| 016 | [The Market Maker Who Makes the Closing Auction Clear](https://thethirdmoment.medium.com/the-market-maker-who-makes-the-closing-auction-clear-d53599bc74be) |
+| 017 | [How Index Arbitrage Keeps a Future and Its Index in Line](https://thethirdmoment.medium.com/how-index-arbitrage-keeps-a-future-and-its-index-in-line-5cb0fa631fc2) |
