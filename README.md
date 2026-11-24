@@ -25,3 +25,4 @@ everything a reader needs is in the article.
 | 017 | [How Index Arbitrage Keeps a Future and Its Index in Line](https://thethirdmoment.medium.com/how-index-arbitrage-keeps-a-future-and-its-index-in-line-5cb0fa631fc2) |
 | 018 | [How a Macro Portfolio Manager Turns a View Into a Trade](https://thethirdmoment.medium.com/how-a-macro-portfolio-manager-turns-a-view-into-a-trade-9d8d69614273) |
 | 019 | [What Is Left of a Convertible Bond After Hedging the Stock](https://thethirdmoment.medium.com/what-is-left-of-a-convertible-bond-after-hedging-the-stock-bd87affa22b6) |
+| 020 | [What a Yield Curve Butterfly Is Really a Bet On](https://thethirdmoment.medium.com/what-a-yield-curve-butterfly-is-really-a-bet-on-2d9869e53523) |
