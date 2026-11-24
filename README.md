@@ -23,3 +23,4 @@ everything a reader needs is in the article.
 | 015 | [What a Microsecond Is Worth to a Market Maker](https://thethirdmoment.medium.com/what-a-microsecond-is-worth-to-a-market-maker-faff2680f562) |
 | 016 | [The Market Maker Who Makes the Closing Auction Clear](https://thethirdmoment.medium.com/the-market-maker-who-makes-the-closing-auction-clear-d53599bc74be) |
 | 017 | [How Index Arbitrage Keeps a Future and Its Index in Line](https://thethirdmoment.medium.com/how-index-arbitrage-keeps-a-future-and-its-index-in-line-5cb0fa631fc2) |
+| 018 | [How a Macro Portfolio Manager Turns a View Into a Trade](https://thethirdmoment.medium.com/how-a-macro-portfolio-manager-turns-a-view-into-a-trade-9d8d69614273) |
