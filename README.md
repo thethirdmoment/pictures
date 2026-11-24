@@ -26,3 +26,4 @@ everything a reader needs is in the article.
 | 018 | [How a Macro Portfolio Manager Turns a View Into a Trade](https://thethirdmoment.medium.com/how-a-macro-portfolio-manager-turns-a-view-into-a-trade-9d8d69614273) |
 | 019 | [What Is Left of a Convertible Bond After Hedging the Stock](https://thethirdmoment.medium.com/what-is-left-of-a-convertible-bond-after-hedging-the-stock-bd87affa22b6) |
 | 020 | [What a Yield Curve Butterfly Is Really a Bet On](https://thethirdmoment.medium.com/what-a-yield-curve-butterfly-is-really-a-bet-on-2d9869e53523) |
+| 021 | [How a Risk Manager Stops a Bad Day From Becoming a Fatal One](https://thethirdmoment.medium.com/how-a-risk-manager-stops-a-bad-day-from-becoming-a-fatal-one-48b3016e6c1a) |
