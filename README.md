@@ -28,3 +28,4 @@ everything a reader needs is in the article.
 | 020 | [What a Yield Curve Butterfly Is Really a Bet On](https://thethirdmoment.medium.com/what-a-yield-curve-butterfly-is-really-a-bet-on-2d9869e53523) |
 | 021 | [How a Risk Manager Stops a Bad Day From Becoming a Fatal One](https://thethirdmoment.medium.com/how-a-risk-manager-stops-a-bad-day-from-becoming-a-fatal-one-48b3016e6c1a) |
 | 022 | [Why a Crude Oil Option Is Not an Equity Option](https://thethirdmoment.medium.com/why-a-crude-oil-option-is-not-an-equity-option-7315863ca7a9) |
+| 023 | [How a Sports Market Maker Prices Odds Against Sharper Bettors](https://thethirdmoment.medium.com/how-a-sports-market-maker-prices-odds-against-sharper-bettors-4f26c789916a) |
