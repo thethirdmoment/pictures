@@ -30,3 +30,4 @@ everything a reader needs is in the article.
 | 022 | [Why a Crude Oil Option Is Not an Equity Option](https://thethirdmoment.medium.com/why-a-crude-oil-option-is-not-an-equity-option-7315863ca7a9) |
 | 023 | [How a Sports Market Maker Prices Odds Against Sharper Bettors](https://thethirdmoment.medium.com/how-a-sports-market-maker-prices-odds-against-sharper-bettors-4f26c789916a) |
 | 024 | [Why Winning a Bond Trade Can Cost the Dealer Money](https://thethirdmoment.medium.com/why-winning-a-bond-trade-can-cost-the-dealer-money-d3d1002ee64c) |
+| 027 | [How a Dispersion Trader Sells Correlation](https://thethirdmoment.medium.com/how-a-dispersion-trader-sells-correlation-49759eb9f80c) |
