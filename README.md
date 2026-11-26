@@ -34,3 +34,4 @@ everything a reader needs is in the article.
 | 026 | [How Much Fake Sharpe a Backtest Bug Can Create](https://thethirdmoment.medium.com/how-much-fake-sharpe-a-backtest-bug-can-create-cf0c5813a571) |
 | 027 | [How a Dispersion Trader Sells Correlation](https://thethirdmoment.medium.com/how-a-dispersion-trader-sells-correlation-49759eb9f80c) |
 | 028 | [How a Bond Basis Trader Turns a Few Basis Points Into a Return](https://thethirdmoment.medium.com/how-a-bond-basis-trader-turns-a-few-basis-points-into-a-return-a85c29ce0d52) |
+| 029 | [How a Liquidity Provider Earns Fees and Pays Arbitrageurs](https://thethirdmoment.medium.com/how-a-liquidity-provider-earns-fees-and-pays-arbitrageurs-723447f173b0) |
