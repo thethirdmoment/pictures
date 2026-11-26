@@ -33,3 +33,4 @@ everything a reader needs is in the article.
 | 025 | [What a Merger Spread Says About the Chance a Deal Fails](https://thethirdmoment.medium.com/what-a-merger-spread-says-about-the-chance-a-deal-fails-b21c35f22b2e) |
 | 026 | [How Much Fake Sharpe a Backtest Bug Can Create](https://thethirdmoment.medium.com/how-much-fake-sharpe-a-backtest-bug-can-create-cf0c5813a571) |
 | 027 | [How a Dispersion Trader Sells Correlation](https://thethirdmoment.medium.com/how-a-dispersion-trader-sells-correlation-49759eb9f80c) |
+| 028 | [How a Bond Basis Trader Turns a Few Basis Points Into a Return](https://thethirdmoment.medium.com/how-a-bond-basis-trader-turns-a-few-basis-points-into-a-return-a85c29ce0d52) |
