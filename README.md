@@ -36,3 +36,4 @@ everything a reader needs is in the article.
 | 028 | [How a Bond Basis Trader Turns a Few Basis Points Into a Return](https://thethirdmoment.medium.com/how-a-bond-basis-trader-turns-a-few-basis-points-into-a-return-a85c29ce0d52) |
 | 029 | [How a Liquidity Provider Earns Fees and Pays Arbitrageurs](https://thethirdmoment.medium.com/how-a-liquidity-provider-earns-fees-and-pays-arbitrageurs-723447f173b0) |
 | 032 | [What a Battery Earns From Price Spikes and Negative Prices](https://thethirdmoment.medium.com/what-a-battery-earns-from-price-spikes-and-negative-prices-fd63e7fe8427) |
+| 034 | [How an FX Market Maker Decides Which Trades to Accept](https://thethirdmoment.medium.com/how-an-fx-market-maker-decides-which-trades-to-accept-a096a990a054) |
