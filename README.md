@@ -46,3 +46,4 @@ everything a reader needs is in the article.
 | 038 | [How a Strip of Futures Turns Into the Odds of a Rate Cut](https://thethirdmoment.medium.com/how-a-strip-of-futures-turns-into-the-odds-of-a-rate-cut-f479e2b2ae1e) |
 | 039 | [How One Price Drop Turns Into a Cascade of Liquidations](https://thethirdmoment.medium.com/how-one-price-drop-turns-into-a-cascade-of-liquidations-650efbe234e8) |
 | 040 | [Which Bond Ends Up Owning a Bankrupt Company](https://thethirdmoment.medium.com/which-bond-ends-up-owning-a-bankrupt-company-4d93048c493f) |
+| 042 | [Risk Parity, Leverage and the Year Stocks and Bonds Fall Together](https://thethirdmoment.medium.com/risk-parity-leverage-and-the-year-stocks-and-bonds-fall-together-0f2bc770d59d) |
