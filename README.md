@@ -40,3 +40,4 @@ everything a reader needs is in the article.
 | 032 | [What a Battery Earns From Price Spikes and Negative Prices](https://thethirdmoment.medium.com/what-a-battery-earns-from-price-spikes-and-negative-prices-fd63e7fe8427) |
 | 033 | [How a Credit Default Swap Trader Prices the Jump to Default](https://thethirdmoment.medium.com/how-a-credit-default-swap-trader-prices-the-jump-to-default-91d2cae509ff) |
 | 034 | [How an FX Market Maker Decides Which Trades to Accept](https://thethirdmoment.medium.com/how-an-fx-market-maker-decides-which-trades-to-accept-a096a990a054) |
+| 035 | [Reading the Market's Expected Earnings Move From Option Prices](https://thethirdmoment.medium.com/reading-the-markets-expected-earnings-move-from-option-prices-249327374619) |
