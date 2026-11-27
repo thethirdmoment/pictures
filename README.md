@@ -38,4 +38,5 @@ everything a reader needs is in the article.
 | 030 | [How a Central Risk Book Nets Client Orders Before Touching the Market](https://thethirdmoment.medium.com/how-a-central-risk-book-nets-client-orders-before-touching-the-market-11fd0b2b1cdd) |
 | 031 | [Why the Optimizer Promises Less Risk Than the Portfolio Carries](https://thethirdmoment.medium.com/why-the-optimizer-promises-less-risk-than-the-portfolio-carries-8b1c16af7c7e) |
 | 032 | [What a Battery Earns From Price Spikes and Negative Prices](https://thethirdmoment.medium.com/what-a-battery-earns-from-price-spikes-and-negative-prices-fd63e7fe8427) |
+| 033 | [How a Credit Default Swap Trader Prices the Jump to Default](https://thethirdmoment.medium.com/how-a-credit-default-swap-trader-prices-the-jump-to-default-91d2cae509ff) |
 | 034 | [How an FX Market Maker Decides Which Trades to Accept](https://thethirdmoment.medium.com/how-an-fx-market-maker-decides-which-trades-to-accept-a096a990a054) |
