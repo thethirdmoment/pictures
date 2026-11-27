@@ -44,3 +44,4 @@ everything a reader needs is in the article.
 | 036 | [How Underwriters Hold Up a New Stock's Price With a Greenshoe](https://thethirdmoment.medium.com/how-underwriters-hold-up-a-new-stocks-price-with-a-greenshoe-c1d83f52f7e7) |
 | 037 | [Why Shuffled Cross-Validation Flatters a Trading Model](https://thethirdmoment.medium.com/why-shuffled-cross-validation-flatters-a-trading-model-0cae5645d96e) |
 | 038 | [How a Strip of Futures Turns Into the Odds of a Rate Cut](https://thethirdmoment.medium.com/how-a-strip-of-futures-turns-into-the-odds-of-a-rate-cut-f479e2b2ae1e) |
+| 039 | [How One Price Drop Turns Into a Cascade of Liquidations](https://thethirdmoment.medium.com/how-one-price-drop-turns-into-a-cascade-of-liquidations-650efbe234e8) |
