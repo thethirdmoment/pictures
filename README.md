@@ -41,4 +41,5 @@ everything a reader needs is in the article.
 | 033 | [How a Credit Default Swap Trader Prices the Jump to Default](https://thethirdmoment.medium.com/how-a-credit-default-swap-trader-prices-the-jump-to-default-91d2cae509ff) |
 | 034 | [How an FX Market Maker Decides Which Trades to Accept](https://thethirdmoment.medium.com/how-an-fx-market-maker-decides-which-trades-to-accept-a096a990a054) |
 | 035 | [Reading the Market's Expected Earnings Move From Option Prices](https://thethirdmoment.medium.com/reading-the-markets-expected-earnings-move-from-option-prices-249327374619) |
+| 036 | [How Underwriters Hold Up a New Stock's Price With a Greenshoe](https://thethirdmoment.medium.com/how-underwriters-hold-up-a-new-stocks-price-with-a-greenshoe-c1d83f52f7e7) |
 | 037 | [Why Shuffled Cross-Validation Flatters a Trading Model](https://thethirdmoment.medium.com/why-shuffled-cross-validation-flatters-a-trading-model-0cae5645d96e) |
