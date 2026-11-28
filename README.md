@@ -50,3 +50,4 @@ everything a reader needs is in the article.
 | 043 | [How Often to Hedge an Option on Its Last Trading Day](https://thethirdmoment.medium.com/how-often-to-hedge-an-option-on-its-last-trading-day-8911e73280fb) |
 | 044 | [What an Oil Storage Tank Is Worth When the Curve Is in Contango](https://thethirdmoment.medium.com/what-an-oil-storage-tank-is-worth-when-the-curve-is-in-contango-ffe14fa7704e) |
 | 045 | [How an ADR Arbitrage Desk Trades One Company in Two Markets](https://thethirdmoment.medium.com/how-an-adr-arbitrage-desk-trades-one-company-in-two-markets-b5ca160af67e) |
+| 046 | [How an XVA Desk Prices the Chance a Client Defaults](https://thethirdmoment.medium.com/how-an-xva-desk-prices-the-chance-a-client-defaults-7541fd666bde) |
